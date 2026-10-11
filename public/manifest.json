@@ -1,0 +1,16 @@
+{
+  "name": "HabitTracker",
+  "short_name": "Habits",
+  "description": "Track your habits, build streaks, and achieve your goals",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
